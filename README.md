@@ -4,4 +4,4 @@
 - 🛠️ Tech Stack: Python, C++, Java (Learning)
 - 🌐 Web Dev Status: Halfway through mastering Full-Stack Development
 - 🤖 Passionate about Robotics, Automation, and Building web Applications
-- ⚽ When I'm not coding, you'll find me on the football field!
+- ⚽ When I'm not Coding, you'll find me on the Football Field!
