@@ -1,6 +1,6 @@
 ### Hi there, I'm [Vivek Kumar] 👋
 
-- 🎓 Pursuing B.Tech in Automation & Robotics at USAR
+- 🎓 Pursuing B.Tech in Automation & Robotics at USAR ,GGSIPU
 - 🛠️ Tech Stack: Python, C++, Java (Learning)
 - 🌐 Web Dev Status: Halfway through mastering Full-Stack Development
 - 🤖 Passionate about Robotics, Automation, and Building web Applications
